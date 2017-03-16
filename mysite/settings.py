@@ -25,7 +25,7 @@ SECRET_KEY = 'tu*3m89l)@-#i8pqp7ja_yd40%&b8t-4*vtivh1@9k5(@58^(n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['memelya.pythonanywhere.com']
 
 
 # Application definition
